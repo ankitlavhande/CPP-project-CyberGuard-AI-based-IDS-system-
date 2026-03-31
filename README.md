@@ -24,3 +24,7 @@ Packet Capture → Feature Extraction → Scaling → Model Prediction → API �
 - Trained on CICIDS-2017 dataset
 - Accuracy depends on similarity with real-world traffic
 - Prototype system (not production-ready)
+
+## Team Members
+- Ankit – Backend integration, AI model implementation, documentation.
+- Lekh – Backend development, API routes, and system logic
