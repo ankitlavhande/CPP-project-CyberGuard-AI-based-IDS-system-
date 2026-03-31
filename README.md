@@ -28,3 +28,4 @@ Packet Capture → Feature Extraction → Scaling → Model Prediction → API �
 ## Team Members
 - Ankit – Backend integration, AI model implementation, documentation.
 - Lekh – Backend development, API routes, and system logic
+- Rishabh – Research paper, and report preparation , FastAPI, and system workflow
