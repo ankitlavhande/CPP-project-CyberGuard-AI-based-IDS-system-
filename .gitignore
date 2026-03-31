@@ -1,0 +1,17 @@
+
+# Ignore cache
+__pycache__/
+
+# Ignore dataset
+cpp-dataset_final-main/
+
+# Ignore large files
+*.csv
+*.pcap
+
+# Ignore models
+*.pkl
+
+# Logs
+logs/
+reports/
